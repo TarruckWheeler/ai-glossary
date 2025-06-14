@@ -301,7 +301,7 @@ This glossary breaks down those barriers by:
 1. Fork this repository
 2. Go to Settings → Pages
 3. Select "Deploy from a branch" → "main" → Save
-4. Your site will be live at `https://yourusername.github.io/ai-glossary`
+4. Your site will be live at `https://TarruckWheeler.github.io/ai-glossary`
 
 ### Option 2: Download and Run Locally
 1. Download the `index.html` file
@@ -413,8 +413,8 @@ This glossary breaks down those barriers by:
 ## 📞 **Contact & Support**
 
 - **Questions about the content?** Email [tarruck@stanford.edu](mailto:tarruck@stanford.edu)
-- **Found a bug?** [Open an issue on GitHub](https://github.com/yourusername/ai-glossary/issues)
-- **Want to contribute?** [Submit a pull request](https://github.com/yourusername/ai-glossary/pulls)
+- **Found a bug?** [Open an issue on GitHub](https://github.com/TarruckWheeler/ai-glossary/issues)
+- **Want to contribute?** [Submit a pull request](https://github.com/TarruckWheeler/ai-glossary/pulls)
 - **Need accessibility help?** We're here to make this resource work for everyone
 
 ## 🔄 **Version History**
